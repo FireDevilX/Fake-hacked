@@ -1,0 +1,17 @@
+function buttonSurprise() {
+  alert("Files encrypted! Press 'OK' to continue.")
+  alert("Extracting files...")
+  alert("Extracting memory...")
+  alert("Extracting all BitCoin and DogeCoin...")
+  alert("Resetting your OS system to factory settings")
+  alert("Juked, jebaited, trolled, played. Go away. Bye.")
+  await sleep(4000)
+  alert("Why are you still here? I said go away. BYE")
+  await sleep(2000)
+  alert("GO AWAY PLEASE, STOP BEING NOSY. :(")
+  alert("I'm warning you!! I wouldn't stay here if I were you. But go ahead, don't listen to me.")
+  await sleep(7000)
+  alert("More updates coming!")
+  await sleep(8000)
+  alert("Seriously... GO AWAY!!!!")
+}
